@@ -1,0 +1,335 @@
+{
+  "archive": "https://thevalleyofai.com/",
+  "source_snapshot": "2026-10-02",
+  "coordinate_note": "Source archive coordinates, not independently verified; moving advertisements use source sightings.",
+  "signs": [
+    {
+      "id": "framer-101n-sanbruno-2025-05",
+      "company": "Framer",
+      "date": "May 2025",
+      "source_url": "https://thevalleyofai.com/billboard/framer-101n-sanbruno-2025-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "medable-101n-southsf-2025-05",
+      "company": "Medable",
+      "date": "May 2025",
+      "source_url": "https://thevalleyofai.com/billboard/medable-101n-southsf-2025-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "vercel-outer-sunset-sf-2026-05",
+      "company": "Vercel",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/vercel-outer-sunset-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "artisan-busshelt-90days-sf-2026-05",
+      "company": "Artisan",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/artisan-busshelt-90days-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "deel-soma-sf-2026-05",
+      "company": "Deel",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/deel-soma-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "google-sf-streets-2026-05",
+      "company": "Google",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/google-sf-streets-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "artisan-busshelt-5tools-sf-2026-05",
+      "company": "Artisan",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/artisan-busshelt-5tools-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "agen-co-rapid-sf-2026-05",
+      "company": "Agen.co",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/agen-co-rapid-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "artisan-cookunity-rapid-sf-2026-05",
+      "company": "Artisan",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/artisan-cookunity-rapid-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "brex-castro-sf-2026-05",
+      "company": "Brex",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/brex-castro-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "baseten-rapid-sf-2026-05",
+      "company": "Baseten",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/baseten-rapid-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "attio-rapid-sf-2026-05",
+      "company": "Attio",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/attio-rapid-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "posthog-muni-sf-2026-05",
+      "company": "Bus Wrap",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/posthog-muni-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "braintrust-muni-bus-sf-2026-05",
+      "company": "Braintrust",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/braintrust-muni-bus-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "atlassian-rovo-101-millbrae-2026-05",
+      "company": "Atlassian Rovo",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/atlassian-rovo-101-millbrae-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "avalara-101-millbrae-2026-05",
+      "company": "Avalara",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/avalara-101-millbrae-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "writer-101-sf-2026-05",
+      "company": "Writer",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/writer-101-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "twilio-soma-sf-2026-05",
+      "company": "Twilio",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/twilio-soma-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "kong-sf-2026-05",
+      "company": "Kong",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/kong-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "metronome-sf-2026-05",
+      "company": "Metronome",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/metronome-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "notion-sf-streets-2026-05",
+      "company": "Notion",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/notion-sf-streets-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "linear-sf-2026-05",
+      "company": "Linear",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/linear-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "zoho-sf-2026-05",
+      "company": "Zoho",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/zoho-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "factory-ai-sf-2026-05",
+      "company": "Factory.ai",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/factory-ai-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "attio-sf-castro-2026-05",
+      "company": "Attio",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/attio-sf-castro-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "stripe-101-southsf-2026-05",
+      "company": "Stripe",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/stripe-101-southsf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "fireworks-ai-101-brisbane-2026-05",
+      "company": "Fireworks AI",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/fireworks-ai-101-brisbane-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "snowflake-101-southsf-2026-05",
+      "company": "Snowflake",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/snowflake-101-southsf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "ringcentral-101-2025-08",
+      "company": "RingCentral",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/ringcentral-101-2025-08",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "agen-co-101-southsf-2026-05",
+      "company": "Agen.co",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/agen-co-101-southsf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "vultr-101-southsf-2026-05",
+      "company": "Vultr",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/vultr-101-southsf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "coreweave-101-brisbane-2026-05",
+      "company": "CoreWeave",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/coreweave-101-brisbane-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "chatgpt-sf-streets-2026-05",
+      "company": "ChatGPT",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/chatgpt-sf-streets-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "airbyte-buswrap-sf-2026-05",
+      "company": "Airbyte",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/airbyte-buswrap-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "airwallex-sfo-2026-05",
+      "company": "Airwallex",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/airwallex-sfo-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "claude-sfo-2026-05",
+      "company": "Claude",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/claude-sfo-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "chatgpt-pacific-sf-2026-05",
+      "company": "ChatGPT",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/chatgpt-pacific-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "stitch-broadway-sf-2026-05",
+      "company": "Stitch",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/stitch-broadway-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "chatgpt-beach-sf-2026-05",
+      "company": "ChatGPT",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/chatgpt-beach-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "coderabbit-buswrap-sf-2026-05",
+      "company": "CodeRabbit",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/coderabbit-buswrap-sf-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    },
+    {
+      "id": "descript-montgomery-bart-2026-05",
+      "company": "Descript",
+      "date": "May 2026",
+      "source_url": "https://thevalleyofai.com/billboard/descript-montgomery-bart-2026-05",
+      "photo_credit": null,
+      "photo_credit_url": null
+    }
+  ]
+}
