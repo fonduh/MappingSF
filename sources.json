@@ -100,22 +100,6 @@
       "photo_credit_url": null
     },
     {
-      "id": "posthog-muni-sf-2026-05",
-      "company": "Bus Wrap",
-      "date": "May 2026",
-      "source_url": "https://thevalleyofai.com/billboard/posthog-muni-sf-2026-05",
-      "photo_credit": null,
-      "photo_credit_url": null
-    },
-    {
-      "id": "braintrust-muni-bus-sf-2026-05",
-      "company": "Braintrust",
-      "date": "May 2026",
-      "source_url": "https://thevalleyofai.com/billboard/braintrust-muni-bus-sf-2026-05",
-      "photo_credit": null,
-      "photo_credit_url": null
-    },
-    {
       "id": "atlassian-rovo-101-millbrae-2026-05",
       "company": "Atlassian Rovo",
       "date": "May 2026",
@@ -264,14 +248,6 @@
       "company": "ChatGPT",
       "date": "May 2026",
       "source_url": "https://thevalleyofai.com/billboard/chatgpt-sf-streets-2026-05",
-      "photo_credit": null,
-      "photo_credit_url": null
-    },
-    {
-      "id": "airbyte-buswrap-sf-2026-05",
-      "company": "Airbyte",
-      "date": "May 2026",
-      "source_url": "https://thevalleyofai.com/billboard/airbyte-buswrap-sf-2026-05",
       "photo_credit": null,
       "photo_credit_url": null
     },
