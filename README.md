@@ -12,7 +12,7 @@ Open `index.html`, or serve this directory as a static site. Everything needed t
 - Text appears when its source location is inside the viewport, with offsets and connector lines to avoid overlaps.
 - Hover or tap a sign to see its full photograph, company, and source date.
 
-The centered Silkscreen header alternates the SF letters between blue and red every two seconds (static with reduced motion). The full-width About bar repeats 5-by-5 pixel flowers around a centered paper label with a dark-blue square frame and dark-blue text. It opens the author’s essay with linked credits and email on desktop and mobile.
+The centered Silkscreen header alternates the SF letters between blue and red every two seconds (static with reduced motion). The full-width About bar repeats 5-by-5 pixel flowers around a centered paper label with a dark-blue square frame and dark-blue text. It opens the author’s essay with linked credits and a plain-text email address on desktop and mobile.
 
 ## Sources
 
